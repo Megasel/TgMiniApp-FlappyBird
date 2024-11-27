@@ -1,0 +1,17 @@
+{
+  "name": "unity-telegram-mini-app", 
+  "version": "1.0.0",             
+  "description": "Unity WebGL served via Node.js with Telegram Mini App integration",
+  "main": "index.js",            
+  "scripts": {
+    "start": "node index.js"           
+  },
+  "dependencies": {
+    "compression": "^1.7.5",
+    "express": "^4.21.1",
+    "node-telegram-bot-api": "^0.66.0"
+  },
+
+  "author": "Your Name",            
+  "license": "ISC"                  
+}
